@@ -1,0 +1,4 @@
+#Thu Apr 04 13:59:19 CST 2019
+base.0=/home/baihaoran/AndroidStudioProjects/wechat_clean/app/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex
